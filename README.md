@@ -34,4 +34,10 @@ Jika diperlukan, kamu bisa menambahkan bagian lisensi. Lisensi berisi informasi 
 
 ---
 
+## Author Info
+
+Bagian ini berisi informasi tentang dirimu dan/atau tim pengembang yang bertanggung jawab atas project. Kamu juga bisa menambahkan informasi kontak
+
+---
+
 Template ini diadaptasi dari https://github.com/jamesqquick/read-me-template
