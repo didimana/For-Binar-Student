@@ -12,7 +12,7 @@ Berkas README ini ditujukan sebagai panduan untuk siswa Binar
 
 ## Deskripsi
 
-Deskripsi berupa gambaran umum tentang project yang kamu kerjakan, yang mencakup tujuan project, fungsi project, dan teknologi yang digunakan (bahasa pemrograman, framework,software). Kamu juga bisa memberikan contoh kasus penggunaan project.
+Deskripsi berupa gambaran umum tentang project yang kamu kerjakan, yang mencakup tujuan project, fungsi project, dan teknologi yang digunakan (bahasa pemrograman, framework, software). Kamu juga bisa memberikan contoh kasus penggunaan project.
 
 ---
 
