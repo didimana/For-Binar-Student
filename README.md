@@ -1,82 +1,36 @@
-# For-Binar-Student
-Repositori ini ditujukan sebagai panduan untuk siswa Binar
-# Read Me Template
+# Read Me Template For-Binar-Student
+Berkas README ini ditujukan sebagai panduan untuk siswa Binar
 
-![Project Image](project-image-url)
-
-> This is a ReadMe template to help save you time and effort.
-
----
-
-### Table of Contents
-You're sections headers will be used to reference location of destination.
-
-- [Description](#description)
-- [How To Use](#how-to-use)
-- [References](#references)
-- [License](#license)
+### Daftar Isi
+- [Deskripsi](#deskripsi)
+- [Cara Penggunaan](#cara-penggunaan)
+- [Daftar Referensi](#referensi)
+- [Lisensi](#lisensi)
 - [Author Info](#author-info)
 
 ---
 
-## Description
+## Deskripsi
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
-
-#### Technologies
-
-- Technology 1
-- Technology 2
-
-[Back To The Top](#read-me-template)
+Deskripsi berupa gambaran umum tentang project yang kamu kerjakan, yang mencakup tujuan project, fungsi project, dan teknologi yang digunakan (bahasa pemrograman, framework,software). Kamu juga bisa memberikan contoh kasus penggunaan project.
 
 ---
 
-## How To Use
+## Cara Penggunaan
 
-#### Installation
-
-
-
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#read-me-template)
+Cara penggunaan dapat berisi instruksi yang jelas tentang cara menginstal, menjalankan, dan menggunakan project kamu.
 
 ---
 
-## References
-[Back To The Top](#read-me-template)
+## Daftar referensi
+
+Bagian ini berisi daftar referensi, resources, atau sumber-sumber yang digunakan dalam pengembangan proyek kamu. Di sini kamu harus menuliskan semua sumber dalam bentuk apapun yang kamu gunakan di project kamu.
 
 ---
 
-## License
+## Lisensi
 
-MIT License
-
-Copyright (c) [2017] [James Q Quick]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-[Back To The Top](#read-me-template)
+Jika diperlukan, kamu bisa menambahkan bagian lisensi. Lisensi berisi informasi tentang lisensi yang digunakan untuk project kamu, yang mencakup aturan dan persyaratan penggunaan, distribusi, dan modifikasi dari project kamu agar tidak sembarangan orang menggunakan atau menyebarluaskan project yang telah kamu buat.
 
 ---
 
