@@ -4,7 +4,7 @@ Berkas README ini ditujukan sebagai panduan untuk siswa Binar
 ### Daftar Isi
 - [Deskripsi](#deskripsi)
 - [Cara Penggunaan](#cara-penggunaan)
-- [Daftar Referensi](#referensi)
+- [Daftar Referensi](#daftar-referensi)
 - [Lisensi](#lisensi)
 - [Author Info](#author-info)
 
